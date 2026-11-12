@@ -1,3 +1,5 @@
 # Local backup copies of earlier versions
 index.backup*.html
 .DS_Store
+.vercel
+.env*
